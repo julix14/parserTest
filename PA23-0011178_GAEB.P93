@@ -1,0 +1,329 @@
+  #begin[GAEB]
+
+    #begin[GAEBInfo]
+      [Version]1.2[end]
+      [VersMon]11[end]
+      [VersJahr]2001[end]
+      [Datum]09.01.2023[end]
+      [Uhrzeit]13:48[end]
+      [ProgSystem]Hausmann&Wynen DV GmbH sitara Version: 24.5.06 VC[end]
+      [Zeichensatz]ANSI[end]
+    #end[GAEBInfo]
+
+    #begin[Bestellung]
+      [DP]93[end]
+      #begin[BestInfo]
+        [AnfrArt]P[end]
+        [AnfrNrKunde]1114991[end]
+        [ErDatum]27.01.2023[end]
+        [VersArt]Standard[end]
+        [Wae]EUR[end]
+        [WaeBez]Euro[end]
+      #end[BestInfo]
+
+      #begin[BestLieferant]
+        #begin[Adresse]
+          [Name1]BUSCH-JAEGER ELEKTRO GMBH[end]
+          [Strasse]FREISENBERGSTR 2[end]
+          [PLZ]58513[end]
+          [Ort]LUEDENSCHEID[end]
+          [LandBez]D[end]
+        #end[Adresse]
+
+      #end[BestLieferant]
+
+      #begin[BestKunde]
+        #begin[Adresse]
+          [Name1]Rexel Germany GmbH & Co. KG[end]
+          [Name2]Service Center[end]
+          [Strasse]Ridlerstr. 57[end]
+          [PLZ]80339[end]
+          [Ort]München[end]
+        #end[Adresse]
+
+      #end[BestKunde]
+
+      #begin[BestPosition]
+        [LfdNr]1[end]
+        [PosKennZ]N[end]
+        [OZ]0101030010[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0010: KNX-Spannungsversorgung 640 mA[end]
+        [ArtLangtext]Für Installationsbus KNX
+                     Zur Erzeugung der Systemspannung für bis zu zwei
+                     Buslinien.
+                     - Integrierte Drossel Mit Diagnosefunktion zum Senden
+                     von Busstrom/-spannung  Betriebsdaten, Überlast,
+                     Bus-Reset Anzeige des verwendeten Busstroms über 7
+                     LEDs Anzeige LEDs: Betrieb, Überlast,
+                     Busverkehr/-kommunikation
+                      
+                     Anschlüsse:
+                     sekundär: Busanschlussklemme
+                     EIB-Linie: Busanschlussklemme
+                     zweite Linie: Busanschlussklemme
+                     Maße (H x B x T): 90 mm x 72 mm x 64 mm
+                     Teilungseinheit: 4 TE
+                     Design: pro M-Design
+                      
+                     Nennspannung: 230 V~, +10 %/ -15 %
+                     Sekundär: 30 V, +30 V/ -30 V
+                     Nennfrequenz: 50 Hz, -60 Hz
+                     Bedienelemente: Reset-Schalter
+                     Anzeigeelemente: Betriebsanzeigen über LEDs
+                     Ausgänge: 2, kurzschlussfest
+                     Nennstrom: 640 mA
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C - 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]2[end]
+        [PosKennZ]N[end]
+        [OZ]0101030020[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0020: Überspannungsschutzklemme, 2-polig[end]
+        [ArtLangtext]Für Installationsbus KNX
+                     Als Überspannungsfeinschutz von KNX-Kombonenten
+                      
+                     Temperaturbereich Gerät: -5 °C bis 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]3[end]
+        [PosKennZ]N[end]
+        [OZ]0101030030[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0030: KNX-Schnittstelle USB[end]
+        [ArtLangtext]Für Installationsbus KNX, zum Parametrieren von KNX-Komponenten .
+                      
+                     Als Applikationen für das Anwendungsmodul stehen zur
+                     Verfügung:
+                     Eingänge: Kommunikation
+                      
+                     Anschlüsse:
+                     EIB-Linie: Busanschlussklemme
+                     Maße (H x B x T): 90 mm x 36 mm x 61 mm
+                     Einbautiefe: 68 mm
+                     Teilungseinheit: 2 TE
+                     Design: pro M-Design
+                      
+                     Anzeigeelemente: LED T: Telegrammverkehr auf den Bus,
+                     LED K: Kommunikation über die Schnittstelle
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C bis 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      
+                      
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]4[end]
+        [PosKennZ]N[end]
+        [OZ]0101030040[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0040: KNX-Koppler[end]
+        [ArtLangtext]Für Installationsbus KNX
+                     Zur Signalkopplung zweier Buslinien.
+                     - Einsatz als Bereichs-, sowie Linienkoppler -
+                     Buslinien galvanisch getrennt - Datenflussfilterung
+                      
+                     Anschlüsse:
+                     übergeordnete Linie: Busanschlussklemme
+                     untergeordnete Linie: Busanschlussklemme
+                     Maße (H x B x T): 90 mm x 36 mm x 61 mm
+                     Einbautiefe: 68 mm
+                     Teilungseinheit: 2 TE
+                     Design: pro M-Design
+                      
+                     Nennspannung: 29 V
+                     Anzeigeelemente: LEDs: Spannungsüberwachung,
+                     Telegrammverkehr
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C - 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      
+                      
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]5[end]
+        [PosKennZ]N[end]
+        [OZ]0101030050[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0050: KNX-Binärausgang 16 AX, mit Stromerkennung, 8-fach[end]
+        [ArtLangtext]Für Installationsbus KNX
+                     Zum Schalten von elektrischen Verbrauchern mittels
+                     potenzialfreier Kontakte.
+                     Mit manueller "Vor-Ort-Bedienung" der Ausgänge Mit
+                     "Vor-Ort-Anzeige" der Eingänge Ohne zusätzliche
+                     Spannungsversorgung Mit integrierter Stromerkennung
+                     und ohne separate Versorgungsspannung Zum Schalten von
+                     lasten mit hohen Einschaltstromspitzen, wie
+                     Leuchtmittel mit Kompensations-Kondensatoren oder
+                     Leuchtstofflampenlasten (AX) nach EN 60669
+                      
+                     Als Applikationen für die Ausgänge stehen zur
+                     Verfügung:
+                     Ausgänge: Schalten Logik Ein- und Ausschaltverzögerung
+                     Treppenlichtfunktion Status Vorzug Preset
+                     Zwangsführung Schwellwerte Stromerkennung
+                      
+                     Anschlüsse:, 0,2 - 6,0 mm²
+                     mehrdrähtig: 0,5 - 2,5 mm²
+                     EIB-Linie: Busanschlussklemme
+                     Maße (H x B x T): 90 mm x 144 mm x 64 mm
+                     Einbautiefe: 68 mm
+                     Teilungseinheit: 8 TE
+                     Design: pro M-Design
+                      
+                     Nennspannung: 230 V~, +10 %/ -15 %
+                     Nennfrequenz: 50 Hz, -60 Hz
+                     Bedienelemente: Manuelle Betätigungsmöglichkeit für
+                     EIN/AUS über Schiebeschalter
+                     Anzeigeelemente: Statusanzeige der Ausgänge über
+                     Position der Schiebeschalter
+                     Ausgänge: 8, Schließer, potenzialfrei
+                     Schaltleistungen: AC1
+                     Nennstrom: 16 A, 1
+                     Ausgangsspannung: 230 V~
+                     Schaltleistungen: AC3
+                     Nennstrom: 16 A
+                     Ausgangsspannung: 230 V~
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C - 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      
+                      
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]6[end]
+        [PosKennZ]N[end]
+        [OZ]0101030060[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0060: KNX-Universalschnittstelle, 2-fach[end]
+        [ArtLangtext]Für Installationsbus KNX
+                     Zum Senden von Schalt-, Tast-, Wert-, Dimm- und
+                     Jalousiebefehlen und/oder zum Ansteuern von
+                     Leuchtdioden.
+                     Sensor zum Anschluss von externen, potenzialfreien  24
+                     V-Kontakten. - Einbau in handelsüblichen AP- oder
+                     UP-Dosen - Keine zusätzliche Spannungsversorgung nötig
+                     - Ein- und Ausgänge frei parametrierbar - Stellt
+                     Abfragespannung und Speisespannung für LEDs zur
+                     Verfügung - Kurzschlussfeste Ausgänge -
+                     Überlastgeschützt - Verpolungssicher
+                      
+                     Als Applikationen für die Ein- und Ausgänge stehen zur
+                     Verfügung:
+                     Eingänge: Schalten Dimmen Jalousie Flanke Wert Zyklisch
+                     Ausgänge: Schalten Blinken
+                      
+                     Anschlüsse:
+                     Eingänge: Anschlussleitungen, fest verzinnte
+                     Leitungsenden
+                     Länge: 300 mm
+                     Maße (H x B x T): 39 mm x 40 mm x 12 mm
+                      
+                     Eingänge: 2
+                     Abfragespannung: 20 V
+                     Signalstrom: 0.5 mA
+                     Messbereich:
+                      
+                     max. Länge Signal-/Sensorleitungen: 10 m
+                     Ausgänge: 2, elektronischer Ausgang, potenzialgebunden
+                     Versorgungsspannung: 5 V
+                     Nennstrom: 2 mA
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C - 45 °C
+                      
+                     komplett liefern und betriebsfertig montieren
+                      
+                      [end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+      #begin[BestPosition]
+        [LfdNr]7[end]
+        [PosKennZ]N[end]
+        [OZ]0101030070[end]
+        [ArtNr]divers[end]
+        [ArtMenge]1,000[end]
+        [ME]Stk[end]
+        [ArtKurztext]01.01.03.0070: KNX IP-Router, REG[end]
+        [ArtLangtext]Zur Anbindung von Installationsbus KNX Installationen an IP Netzwerke. Einsatz als schneller Linien- oder Bereichskoppler.
+                     Zur Programmierung von Installationsbus KNX Geräten über LAN.
+                      
+                     Anschlüsse:
+                     Spannungsversorgung: Schraubklemmen, 0,2 - 4,0 mm²
+                     mehrdrähtig: 0,2 -2,5 mm²
+                     Eingänge: RJ 45 (LAN)
+                     KNX-Linie: Busanschlussklemme
+                      
+                     Maße (H x B x T):ca. 90 mm x 36 mm x 64 mm
+                     Einbautiefe: 68 mm
+                     Teilungseinheit: 2 TE
+                      
+                     Technische Daten:
+                     Nennspannung: 24 V-, +30 V / -12 V
+                     Anzeigeelemente: Status-/Kontrollanzeige über LEDs
+                      
+                     Physikalische Eigenschaften:
+                     Schutzart Gerät: IP 20
+                     Temperaturbereich Gerät: -5 °C bis 45 °C
+                      
+                     Komplett liefern und betriebsfertig montieren.[end]
+        [PrBasis]1[end]
+        [AME]Stk[end]
+      #end[BestPosition]
+
+    #end[Bestellung]
+
+  #end[GAEB]15|94
